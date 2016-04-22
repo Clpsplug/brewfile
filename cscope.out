@@ -1,0 +1,1920 @@
+cscope 15 $HOME/gits/brewfile               0000012065
+	@../dotfiles/.zshrc
+
+1 #(
+d
+è
+is
+  
+Ú
+
+
+3 #G’”® 
+S‘tšgs
+
+
+5 
+expÜt
+ 
+	gEDITOR
+=
+vim
+ #ã‚¨ãƒ‡ã‚£ã‚¿ã‚’vimã«è¨­å®š
+
+6 
+expÜt
+ 
+LANG
+=
+ja_JP
+.
+UTF
+-8 #æ–‡å­—ã‚³ãƒ¼ãƒ‰ã‚’UTF-8ã«è¨­å®š
+
+7 
+expÜt
+ 
+KCODE
+=
+u
+ #KCODEã«
+UTF
+-8ã‚’è¨­å®š
+
+8 
+expÜt
+ 
+AUTOFEATURE
+=
+Œue
+ #autÙe¡ã§
+ã©u»
+ã‚’å‹•ã‹ã™
+
+9 
+bšdkey
+ -
+v
+ #ã‚­ãƒ¼ãƒã‚¤ãƒ³ãƒ‰ã‚’
+vi
+ãƒ¢ãƒ¼ãƒ‰ã«è¨­å®š
+
+10 
+£tİt
+ 
+auto_pushd
+ #cdæ™‚ã«ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚¹ã‚¿ãƒƒã‚¯ã«
+pushd
+ã™ã‚‹
+
+11 
+£tİt
+ 
+cÜ»ù
+ #ã‚³ãƒãƒ³ãƒ‰ã®ã‚¹ãƒšãƒ«ã‚’è¨‚æ­£ã™ã‚‹
+
+12 
+£tİt
+ 
+´om±_sub¡
+ #ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆå®šç¾©å†…ã§å¤‰æ•°ç½®æ›ã‚„ã‚³ãƒãƒ³ãƒ‰ç½®æ›ã‚’æ‰±ã†
+
+13 
+£tİt
+ 
+nÙify
+ #ãƒãƒƒã‚¯ã‚°ãƒ©ã‚¦ãƒ³ãƒ‰ã‚¸ãƒ§ãƒ–ã®çŠ¶æ…‹å¤‰åŒ–ã‚’å³æ™‚å ±å‘Šã™ã‚‹
+
+14 #£tİˆ
+equ®s
+ #=
+commªd
+ã‚’`
+which
+ command`ã¨åŒã˜å‡¦ç†ã«ã™ã‚‹
+
+15 ###Com¶em’ˆ###
+ -U compš™; compš™ #è£œå®Œæ©Ÿèƒ½ã‚’æœ‰åŠ¹ã«ã™ã‚‹
+
+17 
+£tİt
+ 
+	gauto_li¡
+ #è£œå®Œå€™è£œã‚’ä¸€è¦§ã§è¡¨ç¤ºã™ã‚‹(
+	gd
+)
+
+18 
+£tİt
+ 
+	gauto_m’u
+ #è£œå®Œã‚­ãƒ¼é€£æ‰“ã§è£œå®Œå€™è£œã‚’é †ã«è¡¨ç¤ºã™ã‚‹(
+	gd
+)
+
+19 
+£tİt
+ 
+	gli¡_·cked
+ #è£œå®Œå€™è£œã‚’ã§ãã‚‹ã ã‘è©°ã‚ã¦è¡¨ç¤ºã™ã‚‹
+
+20 
+£tİt
+ 
+	gli¡_ty³s
+ #è£œå®Œå€™è£œã«ãƒ•ã‚¡ã‚¤ãƒ«ã®ç¨®é¡ã‚‚è¡¨ç¤ºã™ã‚‹
+
+21 
+	gbšdkey
+ "^[[Z" 
+	g»v”£
+-
+	gm’u
+-
+	gcom¶‘e
+ #Shiá-
+	gTab
+ã§è£œå®Œå€™è£œã‚’é€†é †ã™ã‚‹("\e[Z"ã§ã‚‚å‹•ä½œã™ã‚‹)
+
+22 
+	gz¡yË
+ ':com¶‘iÚ:*' 
+	gm©ch”
+-
+	gli¡
+ 'm:{a-z}={A-Z}' #è£œå®Œæ™‚ã«å¤§æ–‡å­—å°æ–‡å­—ã‚’åŒºåˆ¥ã—ãªã„
+
+23 ###Hi¡Üy ###
+=~/.zsh_hi¡Üy #ãƒ’ã‚¹ãƒˆãƒªã‚’ä¿å­˜ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«
+
+25 
+	gHISTSIZE
+=10000 #ãƒ¡ãƒ¢ãƒªã«ä¿å­˜ã•ã‚Œã‚‹ãƒ’ã‚¹ãƒˆãƒªã®ä»¶æ•°
+
+26 
+SAVEHIST
+=10000 #ä¿å­˜ã•ã‚Œã‚‹ãƒ’ã‚¹ãƒˆãƒªã®ä»¶æ•°
+
+27 
+£tİt
+ 
+bªg_hi¡
+ #!ã‚’ä½¿ã£ãŸãƒ’ã‚¹ãƒˆãƒªå±•é–‹ã‚’è¡Œã†(
+d
+)
+
+28 
+£tİt
+ 
+ex‹nded_hi¡Üy
+ #ãƒ’ã‚¹ãƒˆãƒªã«å®Ÿè¡Œæ™‚é–“ã‚‚ä¿å­˜ã™ã‚‹
+
+29 
+£tİt
+ 
+hi¡_ignÜe_dups
+ #ç›´å‰ã¨åŒã˜ã‚³ãƒãƒ³ãƒ‰ã¯ãƒ’ã‚¹ãƒˆãƒªã«è¿½åŠ ã—ãªã„
+
+30 
+£tİt
+ 
+sh¬e_hi¡Üy
+ #ä»–ã®ã‚·ã‚§ãƒ«ã®ãƒ’ã‚¹ãƒˆãƒªã‚’ãƒªã‚¢ãƒ«ã‚¿ã‚¤ãƒ ã§å…±æœ‰ã™ã‚‹
+
+31 
+£tİt
+ 
+hi¡_»duû_bÏnks
+ #ä½™åˆ†ãªã‚¹ãƒšãƒ¼ã‚¹ã‚’å‰Šé™¤ã—ã¦ãƒ’ã‚¹ãƒˆãƒªã«ä¿å­˜ã™ã‚‹
+
+33 
+autŞßd
+ 
+hi¡Üy
+-
+£¬ch
+-
+’d
+
+
+34 
+zË
+ -
+N
+ 
+hi¡Üy
+-
+begšnšg
+-
+£¬ch
+-
+backw¬d
+-
+’d
+ history-search-end
+
+35 
+zË
+ -
+N
+ 
+hi¡Üy
+-
+begšnšg
+-
+£¬ch
+-
+fÜw¬d
+-
+’d
+ history-search-end
+
+36 
+bšdkey
+ "^P" 
+hi¡Üy
+-
+begšnšg
+-
+£¬ch
+-
+backw¬d
+-
+’d
+
+
+37 
+bšdkey
+ "^N" 
+hi¡Üy
+-
+begšnšg
+-
+£¬ch
+-
+fÜw¬d
+-
+’d
+
+
+39 #key 
+bšdšgs
+
+
+40 
+bšdkey
+ "^[OH" 
+begšnšg
+-
+of
+-
+lše
+
+
+41 
+bšdkey
+ "^[OF" 
+’d
+-
+of
+-
+lše
+
+
+42 
+bšdkey
+ "^[[3~" 
+d–‘e
+-
+
+45 
+funùiÚ
+ 
+hi¡Üy
+-
+®l
+ { hi¡Üy -
+E
+ 1 }
+
+47 #Look 
+And
+ 
+F“l
+ 
+S‘tšgs
+
+
+49 ###L 
+CŞÜ
+ ###
+#è‰²ã®è¨­å®š
+
+51 
+expÜt
+ 
+LSCOLORS
+=
+Exfxcxdxbxegedabagaÿd
+
+
+53 
+expÜt
+ 
+LS_COLORS
+='di=01;34:ln=01;35:so=01;32:ex=01;31:bd=46;34:cd=43;34:su=41;30:sg=46;30:tw=42;30:ow=43;30'
+
+55 
+expÜt
+ 
+ZLS_COLORS
+=
+$LS_COLORS
+
+
+56 #lsã‚³ãƒãƒ³ãƒ‰æ™‚ã€è‡ªå‹•ã§è‰²ãŒã¤ã(
+ls
+ -
+G
+ã®ã‚ˆã†ãªã‚‚ã®ï¼Ÿ)
+
+57 
+expÜt
+ 
+CLICOLOR
+=
+Œue
+
+
+59 
+z¡yË
+ ':com¶‘iÚ:*:deçuÉ' 
+li¡
+-
+cŞÜs
+ 
+$
+{(
+s
+.:.)
+LS_COLORS
+}
+
+62 
+autŞßd
+ -
+Uz
+ 
+vcs_šfo
+
+
+65 [ -
+n
+ "$SSH_CLIENT" ] &&
+
+66 
+ho¡_Çme
+="%F{yellow}%M%f%F{cyan}" ||
+
+67 
+ho¡_Çme
+="localhost"
+
+72 
+	ghei£šum
+=
+$
+(
+ex´
+ $(
+d©e
+ +%
+Y
+) - 1988)
+
+75 
+tmp_´om±
+="%{%(?!%F{cyª}!%F{»d})%}%(?!_Ğ_ãƒ»Ï‰)_!%Bãƒ»Ï‰%)â”Œâ”˜â€™,;â€™;â‰¡ä¸‰%b%f%F{cyª})<%n@${ho¡_Çme} H${hei£šum} %D{%m/%d %T})%à%F{y–low}%B"'$(__g™_ps1 "%s")'"%b%f"
+$
+'\n'"%F{cyan}> %f"
+
+77 
+tmp_´om±2
+="%{${fg[cyan]}%}%F{cyan}_( _ãƒ»Ï‰)_<waiting for %_)%f> %{${reset_color}%}"
+
+78 
+tmp_½rom±
+="%{%F{green}%}[%~]%{${reset_color}%}"
+
+79 
+tmp_¥rom±
+="%F{cyan}_( _ãƒ»Ï‰)_<%f%F{red}You mean %f%B%F{green}%r%f%b%F{red}?%f%F{cyan})%f %{${fg[yellow]}%} [%BY%bes, %BN%bo, %BA%bbort, %BE%bdit]:%{${reset_color}%}"
+
+81 [ 
+$
+{
+UID
+} -
+eq
+ 0 ]; 
+th’
+
+
+82 
+	gtmp_´om±
+="%B%U%{%(?!%F{cyª}!%F{»d})%}%(?!_Ğ_ç®¡Ï‰)_!ç®¡Ï‰%)â”Œâ”˜â€™,;â€™;â‰¡ä¸‰%f%F{cyª})<%n@${ho¡_Çme} %D{%m/%d %T}è%f%u%b"
+$
+'\n'"%F{cyan}# %f"
+
+83 
+tmp_´om±2
+="%B%U%{${fg[cyan]}%}%F{cyan}_( _ç®¡Ï‰)_<waiting for %_)%f> %{${reset_color}%}%u%b"
+
+84 
+tmp_½rom±
+="%B%U${tmp_rprompt}%u%b"
+
+85 
+tmp_¥rom±
+="%B%U%F{cyan}_( _ç®¡Ï‰)_<%f%F{red}You mean %f%B%F{green}%r%f%b%F{red}?%f%F{cyan})%f %F{yellow} [Yes, No, Abort, Edit]:%f%u%b"
+
+86 
+fi
+
+
+87 
+PROMPT
+=
+$tmp_´om±
+ #é€šå¸¸ã®ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆ
+
+88 
+PROMPT2
+=
+$tmp_´om±2
+ #ã‚»ã‚«ãƒ³ãƒ€ãƒªã®ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆ(ã‚³ãƒãƒ³ãƒ‰ãŒ2è¡Œä»¥ä¸Šã®æ™‚ã«è¡¨ç¤ºã•ã‚Œã‚‹)
+
+89 
+RPROMPT
+=
+$tmp_½rom±
+ #å³å´ã®ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆ
+
+90 
+SPROMPT
+=
+$tmp_¥rom±
+ #ã‚¹ãƒšãƒ«è¨‚æ­£ç”¨ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆ
+
+92 #[ -
+n
+ "${REMOTEHOST}${SSH_CONNECTION}" ] &&
+
+96 
+	$´ecmd
+() {
+
+97 [[ -
+t
+ 1 ]] || 
+
+98 
+$TERM
+ 
+š
+
+
+99 *
+x‹rm
+*|
+rxvt
+|(
+dt
+|
+k
+|
+E
+)
+‹rm
+)
+
+100 
+´št
+ -
+Pn
+ "\e]2;[%~]\a"
+
+103 ##
+´št
+ -
+Pn
+ "\e]0;[%n@%m %~] [%l]\a"
+
+104 #´šˆ-
+Pn
+ "\e]0;[%n@%m %~]\a"
+
+106 
+e§c
+
+
+107 
+	}
+}
+
+109 #Oth” 
+S‘tšgs
+
+
+113 
+®Ÿs
+ 
+	ghi¡Üy
+='history -E'
+
+114 #cdã‚³ãƒãƒ³ãƒ‰å®Ÿè¡Œå¾Œã€
+ls
+ -
+­
+ã‚’å®Ÿè¡Œã™ã‚‹
+
+115 
+funùiÚ
+ 
+	$cd
+() {
+
+116 
+butš
+ 
+cd
+ 
+$
+@ && 
+ls
+ -
+­
+;
+
+117 
+	}
+}
+
+118 #EÁ”ã‚­ãƒ¼ã‚’ä½•ã‚‚å…¥åŠ›ã—ãªã„çŠ¶æ…‹ã§æŠ¼ã™ã¨
+ls
+ã¨
+g™
+ 
+¡©us
+ãŒå‹æ‰‹ã«æ‰“ãŸã‚Œã‚‹
+
+119 
+funùiÚ
+ 
+	$do_’‹r
+() {
+
+120 [ -
+n
+ "$BUFFER" ]; 
+th’
+
+
+121 
+zË
+ 
+acû±
+-
+lše
+
+
+123 
+fi
+
+
+124 
+echo
+
+
+125 
+ls
+ -
+­
+
+
+128 [ "$(g™„ev-·r£ --is-šside-wÜk-Œ“ 2> /dev/nuÎ)" = 'Œue' ]; 
+th’
+
+
+129 
+echo
+
+
+130 
+echo
+ -
+e
+ "\e[0;33m--- git status ---\e[0m"
+
+131 
+g™
+ 
+¡©us
+ -
+sb
+
+
+132 
+echo
+
+
+133 
+fi
+
+
+134 
+zË
+ 
+»£t
+-
+´om±
+
+
+136 
+	}
+}
+
+137 
+	gzË
+ -
+N
+ 
+do_’‹r
+
+
+138 
+	gbšdkey
+ '^m' 
+	gdo_’‹r
+
+
+140 #Reäesh 
+the
+ 
+d©aba£
+ "loÿ‹" 
+commªd
+, 
+Ãeds
+ 
+·sswÜd
+
+
+141 
+®Ÿs
+ 
+	gupd©edb
+='sudo /usr/libexec/locate.updatedb'
+
+143 #Add 
+’vœÚm’t
+ 
+v¬ŸbË
+ 
+COCOS_CONSOLE_ROOT
+ 
+cocos2d
+-
+x
+
+
+144 
+expÜt
+ 
+COCOS_CONSOLE_ROOT
+=/
+U£rs
+/
+Tosh
+/
+cocos2d
+-
+x
+/cocos2d-x-3.3/
+toŞs
+/cocos2d-
+cÚsŞe
+/
+bš
+
+
+145 
+expÜt
+ 
+PATH
+=
+$COCOS_CONSOLE_ROOT
+:
+$PATH
+
+
+147 #Add 
+’vœÚm’t
+ 
+v¬ŸbË
+ 
+COCOS_X_ROOT
+ 
+cocos2d
+-
+x
+
+
+148 
+expÜt
+ 
+COCOS_X_ROOT
+=/
+U£rs
+/
+Tosh
+/
+cocos2d
+-
+x
+/cocos2d-x-3.3
+
+149 
+expÜt
+ 
+PATH
+=
+$COCOS_X_ROOT
+:
+$PATH
+
+
+151 #Add 
+’vœÚm’t
+ 
+v¬ŸbË
+ 
+COCOS_TEMPLATES_ROOT
+ 
+cocos2d
+-
+x
+
+
+152 
+expÜt
+ 
+COCOS_TEMPLATES_ROOT
+=/
+U£rs
+/
+Tosh
+/
+cocos2d
+-
+x
+/cocos2d-x-3.3/
+‹m¶©es
+
+
+153 
+expÜt
+ 
+PATH
+=
+$COCOS_TEMPLATES_ROOT
+:
+$PATH
+
+
+155 #šşud
+sbš
+ 
+homeb»w
+
+
+156 
+expÜt
+ 
+PATH
+="/usr/local/sbin:$PATH"
+
+158 #rb’v 
+thšgs
+
+
+159 
+ty³
+ 
+rb’v
+ &>/
+dev
+/
+nuÎ
+
+
+160 [ 
+$
+? -
+Ã
+ 1 ]; 
+th’
+
+
+161 
+expÜt
+ 
+	gPATH
+="$HOME/.rbenv/bin:$PATH"
+
+162 
+ev®
+ "$(rbenv init -)"
+
+163 
+fi
+
+
+166 
+sourû
+ ~/.
+zsh
+/
+g™
+-
+´om±
+.
+sh
+
+
+168 
+GIT_PS1_SHOWDIRTYSTATE
+=1
+
+169 
+GIT_PS1_SHOWSTASHSTATE
+=1
+
+170 
+GIT_PS1_SHOWUNTRACKEDFILES
+=1
+
+171 
+GIT_PS1_SHOWUPSTREAM
+="auto"
+
+172 
+GIT_PS1_DESCRIBE_STYLE
+="default"
+
+173 
+GIT_PS1_SHOWCOLORHINTS
+=1
+
+175 
+å©h
+=(/
+u¤
+/
+loÿl
+/
+sh¬e
+/
+zsh
+-
+com¶‘iÚs
+ 
+$å©h
+)
+
+177 #§y 
+goodbye
+ 
+wh’
+ "exit"
+
+178 
+funùiÚ
+ 
+	$ex™
+(){
+
+179 [ 
+$
+{
+UID
+} -
+eq
+ 0 ]; 
+th’
+
+
+180 
+echo
+ "\e[36m_( _ç®¡Ï‰)_<Bye)\e[39m"
+
+182 
+echo
+ "\e[36m_( _ãƒ»Ï‰)_<Bye)\e[39m"
+
+183 
+fi
+
+
+184 
+butš
+ 
+ex™
+
+
+185 
+	}
+}
+
+188 
+®Ÿs
+ 
+	gfuck
+='$(thefuck $(fc -ln -1))'
+
+190 #log 
+što
+ 
+mysql
+ 
+as
+ 
+roÙ
+
+
+191 
+®Ÿs
+ 
+u£mysql
+='mysql --local-infile=1 -u„oot'
+
+193 #cd 
+što
+ /
+www
+
+
+194 
+®Ÿs
+ 
+cdw
+='cd /www'
+
+196 #push 
+this
+ 
+zshrc
+ 
+to
+ 
+G™Hub
+
+
+197 
+funùiÚ
+ 
+	$§vezshrc
+(){
+
+198 
+s
+=1
+
+199 
+cmp
+ --
+s’t
+ ~/.
+zshrc
+ ~/
+g™s
+/
+dÙfes
+/.zshrø|| 
+s
+=0
+
+200 ià((
+$s
+)); 
+th’
+
+
+201 
+echo
+ "\e[32mNo changes found!"
+
+203 
+c
+=
+$PWD
+
+
+204 
+echo
+ "\e[33mHere‡rehe differences betweenhe†ast saved zshrc‡ndhe current one.\e[39m"
+
+205 
+ty³
+ 
+cŞÜdiff
+ &>/
+dev
+/
+nuÎ
+
+
+206 ià((
+$
+?)); 
+th’
+
+
+207 
+diff
+ -
+u
+ ~/
+g™s
+/
+dÙfes
+/.
+zshrc
+ ~/.zshrc
+
+209 
+diff
+ -
+u
+ ~/
+g™s
+/
+dÙfes
+/.
+zshrc
+ ~/.zshrø| 
+cŞÜdiff
+
+
+210 
+fi
+
+
+211 
+Œue
+; do
+
+212 
+echo
+ "\e[33mDo you wanto save current zshrc into GitHub? [y/n]"
+
+213 
+»ad
+ 
+yn
+
+
+214 
+$yn
+ 
+š
+
+
+215 [
+Yy
+]* ) ;;
+
+216 [
+Nn
+]* )
+
+217 
+echo
+ "\e[31mCancelled!"
+
+219 * ) 
+echo
+ "Please‡nswer yes or‚o.";;
+
+220 
+e§c
+
+
+221 
+dÚe
+
+
+222 
+ı
+ ~/.
+zshrc
+ ~/
+g™s
+/
+dÙfes
+
+
+224 
+butš
+ 
+cd
+ ~/
+g™s
+/
+dÙfes
+
+
+225 
+g™
+ 
+add
+ .
+
+226 
+g™
+ 
+comm™
+
+
+228 ià((
+$
+?)); 
+th’
+
+
+229 
+echo
+ "\e[31mCancelled!"
+
+230 
+butš
+ 
+cd
+ 
+$c
+
+
+232 #Œy 
+to
+ 
+puÎ
+ 
+fœ¡
+Ø
+check
+ 
+cÚæiù
+
+
+233 
+echo
+ "\e[32mChecking changes might have been made in other machines..."
+
+234 
+g™
+ 
+ãtch
+ 
+Üigš
+ 
+ma¡”
+
+
+236 ià((
+$
+?)); 
+th’
+
+
+237 #g™ 
+ãtch
+ 
+çed
+!
+
+238 
+echo
+ "\e[31mFatal: Communication between„emote„epo failed miserably! Checkhosehings:"
+
+239 
+echo
+ "* Are you connectedo internet?"
+
+240 
+echo
+ "* Does your‡dministrator happeno„estricthe connectiono your„emote„epo?"
+
+241 #ià
+you
+ 
+Œy
+ 
+agaš
+, 
+§vezshrc
+ 
+would
+ 
+§y
+ 
+th”e
+ 
+¬e
+ 
+no
+ 
+chªges
+ th”
+w”e
+‚Ø--
+h¬d
+!
+
+242 
+g™
+ 
+»£t
+ --
+h¬d
+ 
+HEAD
+~
+
+243 
+butš
+ 
+cd
+ 
+$c
+
+
+245 
+fi
+
+
+246 
+g™
+ 
+m”ge
+
+
+247 ià((
+$
+?)); 
+th’
+
+
+248 
+echo
+ "\e[31mFatal: Saveohe„emote„epo failed miserably! Changes have conflicted!"
+
+249 
+echo
+ "\e[39mThe conflict have been marked by git."
+
+250 
+echo
+ "Your…wd is†ocal„epo."
+
+251 
+echo
+ "Type \'vim .zshrc\'o start„esolvinghem."
+
+252 
+echo
+ "\'git…ush origin master\'o manually savehe change, "
+
+253 
+echo
+ "Then„un \'loadzshrc\'!"
+
+254 
+fi
+
+
+256 
+g™
+ 
+push
+ 
+Üigš
+ 
+ma¡”
+
+
+257 
+echo
+ "\e[32mSaved!"
+
+258 
+fi
+
+
+259 
+butš
+ 
+cd
+ 
+$c
+
+
+260 
+fi
+
+
+261 
+	}
+}
+
+263 #puÎ 
+this
+ 
+zshrc
+ 
+äom
+ 
+G™Hub
+
+
+264 
+funùiÚ
+ 
+	$lßdzshrc
+(){
+
+266 
+Œue
+; do
+
+267 
+echo
+ "Do you wanto…ull zshrc from GitHub?\n\e[33mYou'll have‡ chanceo view differences‡fter successful…ull. \e[39m[y/n]"
+
+268 
+»ad
+ 
+yn
+
+
+269 
+$yn
+ 
+š
+
+
+270 [
+Yy
+]* ) ;;
+
+271 [
+Nn
+]* )
+
+272 
+echo
+ "\e[31mCancelled!"
+
+274 * ) 
+echo
+ "Please‡nswer yes or‚o.";;
+
+275 
+e§c
+
+
+276 
+dÚe
+
+
+278 
+c
+=
+$PWD
+
+
+279 
+butš
+ 
+cd
+ ~/
+g™s
+/
+dÙfes
+
+
+281 
+g™
+ 
+puÎ
+
+
+282 ià((
+$
+?)); 
+th’
+
+
+283 
+echo
+ "\e[31mFatal: The git…rocess failed miserably! Checkhosehings:"
+
+284 
+echo
+ "* Are you connectedo internet?"
+
+285 
+echo
+ "* Does your‡dministrator happeno„estricthe connectiono your„emote„epo?"
+
+286 
+echo
+ "* Are you sure you have‚o other git…rocess„unning„ight‚ow?"
+
+287 
+butš
+ 
+cd
+ 
+$c
+
+
+289 
+fi
+
+
+291 
+s
+=1
+
+292 
+cmp
+ --
+s’t
+ ~/.
+zshrc
+ ~/
+g™s
+/
+dÙfes
+/.zshrø|| 
+s
+=0
+
+293 ià((
+$s
+)); 
+th’
+
+
+294 
+echo
+ "\e[32mNo changes found! You're using your†atest zshrc!"
+
+295 
+butš
+ 
+cd
+ 
+$c
+
+
+297 
+echo
+ "\e[33mHere‡rehe differences betweenhe…ulled zshrc‡ndhe current one.\e[39m"
+
+298 
+ty³
+ 
+cŞÜdiff
+ &>/
+dev
+/
+nuÎ
+
+
+299 ià((
+$
+?)); 
+th’
+
+
+300 
+diff
+ -
+u
+ ~/.
+zshrc
+ ~/
+g™s
+/
+dÙfes
+/.zshrc
+
+302 
+diff
+ -
+u
+ ~/.
+zshrc
+ ~/
+g™s
+/
+dÙfes
+/.zshrø| 
+cŞÜdiff
+
+
+303 
+fi
+
+
+304 
+Œue
+; do
+
+305 
+echo
+ "\e[33mDo you wanto Applyhis zshrc or Edit before continuing? [a/e]"
+
+306 
+»ad
+ 
+«
+
+
+307 
+$«
+ 
+š
+
+
+308 [
+Aa
+]* )
+
+309 
+ı
+ .
+zshrc
+ ~
+
+310 
+echo
+ "\e[32mLoaded!"
+
+311 
+butš
+ 
+cd
+ 
+$c
+
+
+312 
+sourû
+ ~/.
+zshrc
+
+
+314 [
+Ee
+]* )
+
+315 
+emacs
+ ~/.
+zshrc
+ .zshrc
+
+316 
+echo
+ "\e[32mType cp ~/gits/dotfiles/.zshrc ~; source ~/.zshrco‡pplyhe zshrc!"
+
+317 
+butš
+ 
+cd
+ 
+$c
+
+
+319 * ) 
+echo
+ "Please‡nswer Apply or Edit.";;
+
+320 
+e§c
+
+
+321 
+dÚe
+
+
+322 
+fi
+
+
+323 
+	}
+}
+
+325 #š™Ÿliz©iÚ 
+süt
+
+
+326 
+funùiÚ
+ 
+	$zshrcš™
+(){
+
+327 
+b»wš™
+
+
+328 
+cd
+
+
+329 
+mkdœ
+ .
+zsh
+
+
+330 
+cu¾
+ 
+h‰ps
+:
+
+331 
+sourû
+ ~/.
+zshrc
+
+
+332 
+	}
+}
+
+334 #£ˆ
+homeb»w
+ 
+up
+
+
+335 
+funùiÚ
+ 
+	$b»wš™
+(){
+
+336 
+ruby
+ -
+e
+ "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+337 
+b»w
+ 
+doùÜ
+
+
+338 
+b»w
+ 
+upd©e
+
+
+339 
+b»w
+ 
+upg¿de
+ --
+®l
+
+
+340 
+b»w
+ 
+p
+ 
+homeb»w
+/
+b»wdËr
+
+
+341 
+b»w
+ 
+š¡®l
+ 
+g™
+
+
+342 
+mkdœ
+ ~/
+g™s
+
+
+343 
+butš
+ 
+cd
+ ~/
+g™s
+
+
+344 
+g™
+ 
+şÚe
+ g™@
+g™hub
+.
+com
+:
+CÍ¥lug
+/
+b»wfe
+.git
+
+345 
+cd
+ 
+b»wfe
+
+
+346 
+g™
+ 
+puÎ
+ 
+Üigš
+ 
+ma¡”
+
+
+347 
+b»w
+ 
+b»wdË
+
+
+348 
+b»w
+ 
+ş—nup
+
+
+349 
+	}
+}
+
+351 #¡¬ˆ
+vm
+
+
+352 
+funùiÚ
+ 
+	$vm¡¬t
+(){
+
+353 #c=
+$PWD
+
+
+354 #butš 
+cd
+ ~/
+g™s
+/
+vag¿Á
+-
+Ïmp
+-
+ªsibË
+
+
+355 
+vag¿Á
+ 
+up
+
+
+356 ià((
+$
+?)); 
+th’
+
+
+357 
+echo
+ "\e[33mvagrant up crashed for some„eason!"
+
+358 
+echo
+ "* Are you inhe„ight directory?"
+
+359 
+echo
+ "* Did youryo \`vmstart\` in multiplety? That might cause somerouble."
+
+360 
+echo
+ "* For more info, consultheƒrror outputhat should be visible‡bove."
+
+363 
+vag¿Á
+ 
+ssh
+
+
+364 
+fi
+
+
+365 #butš 
+cd
+ 
+$c
+
+
+366 
+	}
+}
+
+368 
+funùiÚ
+ 
+	$‰yşockªdex™
+(){
+
+369 
+‰y
+-
+şock
+ -
+csC6
+
+
+370 
+butš
+ 
+ex™
+
+
+371 
+	}
+}
+
+373 #upd©
+homeb»w
+
+
+374 
+funùiÚ
+ 
+	$upd©eb»w
+(){
+
+375 
+b»w
+ 
+upd©e
+;
+
+376 
+b»w
+ 
+upg¿de
+ --
+®l
+;
+
+377 
+	}
+}
+
+	@
+1
+.
+1
+/usr/include
+1
+19
+../dotfiles/.zshrc
